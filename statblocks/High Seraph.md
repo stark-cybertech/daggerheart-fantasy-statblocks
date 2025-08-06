@@ -9,7 +9,7 @@ difficulty: "20"
 thresholds: "37/70"
 atk: +8
 attack: "Holy Sword"
-range: "Very"
+range: "Very Close"
 damage: "4d10+10 phy"
 hp: 7
 stress: 5

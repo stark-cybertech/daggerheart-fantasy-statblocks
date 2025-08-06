@@ -9,7 +9,7 @@ difficulty: "17"
 thresholds: "21/40"
 atk: +3
 attack: "Charged Mace"
-range: "Very"
+range: "Very Close"
 damage: "2d12+1 phy"
 hp: 6
 stress: 3

@@ -9,7 +9,7 @@ difficulty: "14"
 thresholds: "8/15"
 atk: +3
 attack: "Claws"
-range: "Very"
+range: "Very Close"
 damage: "1d12+2 phy"
 hp: 8
 stress: 3

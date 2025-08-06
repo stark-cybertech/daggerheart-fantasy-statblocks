@@ -9,7 +9,7 @@ difficulty: "18"
 thresholds: "35/58"
 atk: +8
 attack: "Heart-Shattering Sword"
-range: "Very"
+range: "Very Close"
 damage: "4d12+13 phy"
 hp: 11
 stress: 5

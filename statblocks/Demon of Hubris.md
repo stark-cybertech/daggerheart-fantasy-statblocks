@@ -9,7 +9,7 @@ difficulty: "19"
 thresholds: "20/36"
 atk: +4
 attack: "Perfect Spear"
-range: "Very"
+range: "Very Close"
 damage: "3d10 phy"
 hp: 7
 stress: 5

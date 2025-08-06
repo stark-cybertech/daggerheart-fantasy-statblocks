@@ -9,7 +9,7 @@ difficulty: "14"
 thresholds: "8/19"
 atk: +1
 attack: "Claws and Beak"
-range: "Very"
+range: "Very Close"
 damage: "2d6+3 phy"
 hp: 4
 stress: 4

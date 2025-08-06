@@ -9,7 +9,7 @@ difficulty: "16"
 thresholds: "14/27"
 atk: +2
 attack: "Battleaxe"
-range: "Very"
+range: "Very Close"
 damage: "2d8+5 phy"
 hp: 7
 stress: 5

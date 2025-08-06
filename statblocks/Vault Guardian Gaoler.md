@@ -9,7 +9,7 @@ difficulty: "16"
 thresholds: "19/33"
 atk: +2
 attack: "Body Bash"
-range: "Very"
+range: "Very Close"
 damage: "3d6+2 phy"
 hp: 5
 stress: 3

@@ -9,7 +9,7 @@ difficulty: "17"
 thresholds: "17/34"
 atk: +3
 attack: "Crashing Wave"
-range: "Very"
+range: "Very Close"
 damage: "3d4+1 mag"
 hp: 5
 stress: 5

@@ -9,7 +9,7 @@ difficulty: "19"
 thresholds: "27/47"
 atk: +7
 attack: "Corroding Pseudopod"
-range: "Very"
+range: "Very Close"
 damage: "4d8+5 mag"
 hp: 4
 stress: 3

@@ -9,7 +9,7 @@ difficulty: "17"
 thresholds: "22/40"
 atk: +3
 attack: "Fists"
-range: "Very"
+range: "Very Close"
 damage: "3d8+1 mag"
 hp: 7
 stress: 5

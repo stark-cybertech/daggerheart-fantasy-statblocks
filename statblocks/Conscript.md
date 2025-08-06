@@ -9,7 +9,7 @@ difficulty: "12"
 thresholds: "None"
 atk: 0
 attack: "Spears"
-range: "Very"
+range: "Very Close"
 damage: "6 phy"
 hp: 1
 stress: 1

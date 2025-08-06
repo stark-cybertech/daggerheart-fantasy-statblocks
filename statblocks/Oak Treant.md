@@ -9,7 +9,7 @@ difficulty: "17"
 thresholds: "22/40"
 atk: +2
 attack: "Branch"
-range: "Very"
+range: "Very Close"
 damage: "3d8+2 phy"
 hp: 7
 stress: 4

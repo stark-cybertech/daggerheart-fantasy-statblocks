@@ -68,8 +68,8 @@ def parse(path):
             pattern_attack = r'\*\*(.*):\*\*'
             results['attack'] = re.search(pattern_attack, line[1]).group(1)
 
-            pattern_range = r'\*\*.*:\*\*\s*(\w*)'
-            results['range'] = re.search(pattern_range, line[1]).group(1)
+            pattern_range = r'\*\*.*:\*\*\s*(\w*\s*\w*)'
+            results['range'] = re.search(pattern_range, line[1]).group(1).strip()
 
             results['damage'] = line[2].strip(' ')
 
@@ -168,3 +168,10 @@ import os
 for adversary in os.listdir('adversaries'):
     print(f"parsing {adversary}")
     createNote(adversary, parse('adversaries/' + adversary))
+
+with open (f"statblocks/statblocks.md", 'w') as file:
+    output = "# Statblocks\n"
+    for statblock in os.listdir('statblocks'):
+        output = output + f"- [[{statblock.removesuffix('.md')}]]\n"
+    
+    file.write(output)

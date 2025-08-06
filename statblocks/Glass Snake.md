@@ -9,7 +9,7 @@ difficulty: "14"
 thresholds: "6/10"
 atk: +2
 attack: "Glass Fangs"
-range: "Very"
+range: "Very Close"
 damage: "1d8+2 phy"
 hp: 5
 stress: 3

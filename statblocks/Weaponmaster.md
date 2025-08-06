@@ -9,7 +9,7 @@ difficulty: "14"
 thresholds: "8/15"
 atk: +2
 attack: "Claymore"
-range: "Very"
+range: "Very Close"
 damage: "1d12+2 phy"
 hp: 6
 stress: 3

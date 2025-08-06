@@ -9,7 +9,7 @@ difficulty: "16"
 thresholds: "15/27"
 atk: +5
 attack: "Tear at Flesh"
-range: "Very"
+range: "Very Close"
 damage: "2d12+1 phy"
 hp: 6
 stress: 4

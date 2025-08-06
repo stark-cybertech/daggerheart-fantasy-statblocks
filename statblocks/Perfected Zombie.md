@@ -9,7 +9,7 @@ difficulty: "20"
 thresholds: "40/70"
 atk: +4
 attack: "Greataxe"
-range: "Very"
+range: "Very Close"
 damage: "4d12+15 phy"
 hp: 9
 stress: 4

@@ -9,7 +9,7 @@ difficulty: "14"
 thresholds: "13/26"
 atk: +3
 attack: "Wing Slash"
-range: "Very"
+range: "Very Close"
 damage: "2d10+4 phy"
 hp: 10
 stress: 5

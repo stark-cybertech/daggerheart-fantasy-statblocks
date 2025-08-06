@@ -9,7 +9,7 @@ difficulty: "17"
 thresholds: "22/40"
 atk: +7
 attack: "Boulder Fist"
-range: "Very"
+range: "Very Close"
 damage: "3d10+1 phy"
 hp: 10
 stress: 4

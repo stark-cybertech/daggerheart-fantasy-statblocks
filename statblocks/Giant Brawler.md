@@ -9,7 +9,7 @@ difficulty: "15"
 thresholds: "12/28"
 atk: +2
 attack: "Warhammer"
-range: "Very"
+range: "Very Close"
 damage: "2d12+3 phy"
 hp: 7
 stress: 4

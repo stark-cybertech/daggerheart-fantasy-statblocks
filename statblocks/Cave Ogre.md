@@ -9,7 +9,7 @@ difficulty: "13"
 thresholds: "8/15"
 atk: +1
 attack: "Club"
-range: "Very"
+range: "Very Close"
 damage: "1d10+2 phy"
 hp: 8
 stress: 3

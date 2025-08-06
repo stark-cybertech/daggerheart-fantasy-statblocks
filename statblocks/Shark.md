@@ -9,7 +9,7 @@ difficulty: "14"
 thresholds: "14/28"
 atk: +2
 attack: "Toothy Maw"
-range: "Very"
+range: "Very Close"
 damage: "2d12+1 phy"
 hp: 7
 stress: 3

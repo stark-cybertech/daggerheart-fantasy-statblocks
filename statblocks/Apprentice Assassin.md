@@ -9,7 +9,7 @@ difficulty: "13"
 thresholds: "None"
 atk: -1
 attack: "Thrown Dagger"
-range: "Very"
+range: "Very Close"
 damage: "4 phy"
 hp: 1
 stress: 1

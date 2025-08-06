@@ -9,7 +9,7 @@ difficulty: "13"
 thresholds: "8/15"
 atk: +4
 attack: "Too Many Arms"
-range: "Very"
+range: "Very Close"
 damage: "1d20 phy"
 hp: 10
 stress: 3

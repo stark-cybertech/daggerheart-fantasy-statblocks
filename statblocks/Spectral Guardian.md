@@ -9,7 +9,7 @@ difficulty: "15"
 thresholds: "7/15"
 atk: +1
 attack: "Spear"
-range: "Very"
+range: "Very Close"
 damage: "2d8+1 phy"
 hp: 4
 stress: 3

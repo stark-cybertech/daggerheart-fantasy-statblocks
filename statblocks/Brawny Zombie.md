@@ -9,7 +9,7 @@ difficulty: "10"
 thresholds: "8/15"
 atk: +2
 attack: "Slam"
-range: "Very"
+range: "Very Close"
 damage: "1d12+3 phy"
 hp: 7
 stress: 4

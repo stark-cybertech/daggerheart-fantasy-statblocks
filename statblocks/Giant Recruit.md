@@ -9,7 +9,7 @@ difficulty: "13"
 thresholds: "None"
 atk: +1
 attack: "Warhammer"
-range: "Very"
+range: "Very Close"
 damage: "5 phy"
 hp: 1
 stress: 2

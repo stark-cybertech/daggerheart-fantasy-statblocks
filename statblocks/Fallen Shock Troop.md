@@ -9,7 +9,7 @@ difficulty: "18"
 thresholds: "None"
 atk: +2
 attack: "Cursed Axe"
-range: "Very"
+range: "Very Close"
 damage: "12 phy"
 hp: 1
 stress: 1

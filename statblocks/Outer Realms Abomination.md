@@ -9,7 +9,7 @@ difficulty: "19"
 thresholds: "35/71"
 atk: +2
 attack: "Massive Pseudopod"
-range: "Very"
+range: "Very Close"
 damage: "4d6+13 mag"
 hp: 7
 stress: 5

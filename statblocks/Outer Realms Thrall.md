@@ -9,7 +9,7 @@ difficulty: "17"
 thresholds: "None"
 atk: +3
 attack: "Claws and Teeth"
-range: "Very"
+range: "Very Close"
 damage: "11 phy"
 hp: 1
 stress: 1
